@@ -4,7 +4,7 @@
 ## Description
 
 This repository houses a versatile implementation of the subset sum algorithm utilizing dynamic programming with a depth-first search (DFS) approach. The algorithm efficiently computes all possible combinations with unique keys provided in the output. It is capable of handling both positive and negative float and integer numbers, offering robust functionality across a wide range of numerical scenarios.
-
+- https://github.com/PrinceDobariya0710/subsetsumdfs
 ## Authors
 
 - [@princekumardobariya](https://github.com/PrinceDobariya0710)
