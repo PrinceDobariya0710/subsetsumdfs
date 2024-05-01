@@ -8,7 +8,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     name="subsetsumdfs",
-    version="0.3",
+    version="0.0.1",
     packages=find_packages(),
     install_requires=[],
     entry_points = {
