@@ -152,7 +152,8 @@ result = subset_sum(items=data, target=4086683.03, max_time=300, accuracy=1, max
 ```
 
 ### Example Output :
-```[
+```
+[
     [{'value': -254331.86, 'unique_key': '8'}, {'value': -980.88, 'unique_key': '12'}, {'value': 745847.81, 'unique_key': '13'}, {'value': 81026.7, 'unique_key': '17'}, {'value': 3223.43, 'unique_key': '19'}, {'value': -575095.08, 'unique_key': '20'}, {'value': 309.19, 'unique_key': '24'}, {'value': 4086683.03, 'unique_key': '25'}],
     [{'value': 4086683.03, 'unique_key': '25'}]
 ]
