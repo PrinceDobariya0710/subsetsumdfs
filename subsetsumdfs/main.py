@@ -1,6 +1,6 @@
 import time
 
-def subsetsum(items:list, target:float, max_time:int, accuracy:float,max_combinations:int):
+def subsetsum(items:list, target:float, max_time:int=60, accuracy:float=0.01,max_combinations:int=100):
     def dfs(index, remaining_sum, path, result):
         if abs(remaining_sum) <= accuracy and abs(remaining_sum) >= 0:
             result.append(path)
