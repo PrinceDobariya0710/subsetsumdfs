@@ -34,7 +34,12 @@ Install subsetsumdfs with pip
   pip install subsetsumdfs
 ```
     
-## Please follow provided input data structure to avoid errors
+## Please carefully read below info
+- *Follow Data structure* : Please follow provided data structure in example to avoid errors
+- *Default values* : By Default this are the values for algorithm arguments [max_time = 60 seconds
+accuracy = 0.01
+max_combinations = 100]
+- *Warning* : Please choose max_time wisely otherwise it will run for longer period of time.If you have large list as an input and it may cause high RAM utilization.
 
 ## Example usage
 
